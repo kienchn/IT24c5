@@ -1,6 +1,6 @@
 body{
     background-image: url("assest/green-background-bg-summer-backdrop-600nw-2370333477.webp");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
 h1{
@@ -8,7 +8,13 @@ h1{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 100px;
-}.header {
+}h2{
+color: rgb(60, 179, 113), blue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.header {
     overflow: hidden;
     background-color: rgb(33, 117, 7);
     /*padding: 20px 10px;*/
